@@ -1,6 +1,8 @@
 # Wilken Chapter 4
 ## clone with challenges applied
 
+## attempted to integrate darksky and firebase
+
 ### to prepare and start the app run these commands
 ~~~
 npm install -g ionic
